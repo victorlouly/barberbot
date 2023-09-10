@@ -1,0 +1,690 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '556299885979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B850B0683FA0649EFE',
+    participant: undefined
+  },
+  messageTimestamp: 1694107043,
+  pushName: 'Mih',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'ola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ola',
+  from: '556299885979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f5834ae-5573-42e5-8ca1-9bbbe0af4e8d',
+  keyword: 'key_66bdb7ea-cafa-4b4b-9127-06fefe87051e',
+  answer: '💈  Olá bem vindo a *Barbearia Mineiro* 💈 ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2927bf3f8a512473270f48e15c538f5a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0db35e5f-ae25-44b3-acf0-0d345396b67a',
+  keyword: 'ans_4f5834ae-5573-42e5-8ca1-9bbbe0af4e8d',
+  answer: 'Digite o número de uma das opções abaixo:\n' +
+    '👉 *1* Para agendamentos\n' +
+    '👉 *2* Valores\n' +
+    '👉 *3* Localização',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '37db204e6e1ad6fdded7b5956289d66f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '556299885979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08088ADB77B9AFA815D',
+    participant: undefined
+  },
+  messageTimestamp: 1694107046,
+  pushName: 'Mih',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '556299885979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_51e6f9a2-3621-42c6-bb95-c361d323982d',
+  keyword: 'key_9a0432ca-0f98-4911-972d-fa123c6e9ae0',
+  answer: '📅 Para agendamento clique no link abaixo:\n' +
+    'https://barbearia-mineiro.reservio.com\n' +
+    '\n' +
+    '*4* Para retornar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c037b07b56cc2b952d2a29306e3df11d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '556299885979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB028ABEF9A43131C610A',
+    participant: undefined
+  },
+  messageTimestamp: 1694107051,
+  pushName: 'Mih',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '556299885979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_18328c09-3449-44b7-a27c-b3d7af84e9d7',
+  keyword: 'key_318ebc52-0ee0-4824-a57c-a5af4fb068e0',
+  answer: 'Digite *voltar*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '578468f44ee4bc60ee65d5b88eeed708'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '556299885979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09522B6A48D6335C390',
+    participant: undefined
+  },
+  messageTimestamp: 1694107053,
+  pushName: 'Mih',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'voltar',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'voltar',
+  from: '556299885979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f5834ae-5573-42e5-8ca1-9bbbe0af4e8d',
+  keyword: 'key_66bdb7ea-cafa-4b4b-9127-06fefe87051e',
+  answer: '💈  Olá bem vindo a *Barbearia Mineiro* 💈 ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2927bf3f8a512473270f48e15c538f5a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0db35e5f-ae25-44b3-acf0-0d345396b67a',
+  keyword: 'ans_4f5834ae-5573-42e5-8ca1-9bbbe0af4e8d',
+  answer: 'Digite o número de uma das opções abaixo:\n' +
+    '👉 *1* Para agendamentos\n' +
+    '👉 *2* Valores\n' +
+    '👉 *3* Localização',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '37db204e6e1ad6fdded7b5956289d66f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '556299885979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0946CE644BA6E7F3F26',
+    participant: undefined
+  },
+  messageTimestamp: 1694107055,
+  pushName: 'Mih',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '556299885979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8dc66af9-8922-4455-bd66-3527fd108ec3',
+  keyword: 'key_ef5d3f63-b18e-4035-95cb-e9b0a24c8aa5',
+  answer: '💸 *Valores*\n*Corte* : R$30,00\n*Barba* : R$30,00\n\n*4* Para retornar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8dc6e949e9f3e96e0b3e354ca7986fe2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554891572817@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7E3A154DE3519D59A1',
+    participant: undefined
+  },
+  messageTimestamp: 1694107227,
+  pushName: 'Barbearia Minero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Oi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Barbearia Minero',
+  body: 'Oi',
+  from: '554891572817'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f5834ae-5573-42e5-8ca1-9bbbe0af4e8d',
+  keyword: 'key_66bdb7ea-cafa-4b4b-9127-06fefe87051e',
+  answer: '💈  Olá bem vindo a *Barbearia Mineiro* 💈 ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2927bf3f8a512473270f48e15c538f5a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0db35e5f-ae25-44b3-acf0-0d345396b67a',
+  keyword: 'ans_4f5834ae-5573-42e5-8ca1-9bbbe0af4e8d',
+  answer: 'Digite o número de uma das opções abaixo:\n' +
+    '👉 *1* Para agendamentos\n' +
+    '👉 *2* Valores\n' +
+    '👉 *3* Localização',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '37db204e6e1ad6fdded7b5956289d66f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554891572817@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD65D4D324FEEE6390A',
+    participant: undefined
+  },
+  messageTimestamp: 1694107239,
+  pushName: 'Barbearia Minero',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '554891572817'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_51e6f9a2-3621-42c6-bb95-c361d323982d',
+  keyword: 'key_9a0432ca-0f98-4911-972d-fa123c6e9ae0',
+  answer: '📅 Para agendamento clique no link abaixo:\n' +
+    'https://barbearia-mineiro.reservio.com\n' +
+    '\n' +
+    '*4* Para retornar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c037b07b56cc2b952d2a29306e3df11d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554891572817@s.whatsapp.net',
+    fromMe: false,
+    id: '3A16A909EA4DC96185A0',
+    participant: undefined
+  },
+  messageTimestamp: 1694107254,
+  pushName: 'Barbearia Minero',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '554891572817'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554891572817@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4C0FF220BD3E404E26',
+    participant: undefined
+  },
+  messageTimestamp: 1694107265,
+  pushName: 'Barbearia Minero',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '554891572817'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '556299885979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DA2C657B31828358A2',
+    participant: undefined
+  },
+  messageTimestamp: 1694107728,
+  pushName: 'Mih',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '556299885979'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '556299885979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0485942B231F478DDD9',
+    participant: undefined
+  },
+  messageTimestamp: 1694107749,
+  pushName: 'Mih',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'voltar',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'voltar',
+  from: '556299885979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f5834ae-5573-42e5-8ca1-9bbbe0af4e8d',
+  keyword: 'key_66bdb7ea-cafa-4b4b-9127-06fefe87051e',
+  answer: '💈  Olá bem vindo a *Barbearia Mineiro* 💈 ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2927bf3f8a512473270f48e15c538f5a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0db35e5f-ae25-44b3-acf0-0d345396b67a',
+  keyword: 'ans_4f5834ae-5573-42e5-8ca1-9bbbe0af4e8d',
+  answer: 'Digite o número de uma das opções abaixo:\n' +
+    '👉 *1* Para agendamentos\n' +
+    '👉 *2* Valores\n' +
+    '👉 *3* Localização',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '37db204e6e1ad6fdded7b5956289d66f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '556299885979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00998368C8B842AEF68',
+    participant: undefined
+  },
+  messageTimestamp: 1694107754,
+  pushName: 'Mih',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '556299885979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8dc66af9-8922-4455-bd66-3527fd108ec3',
+  keyword: 'key_ef5d3f63-b18e-4035-95cb-e9b0a24c8aa5',
+  answer: '💸 *Valores*\n*Corte* : R$30,00\n*Barba* : R$30,00\n\n*4* Para retornar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8dc6e949e9f3e96e0b3e354ca7986fe2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '556299885979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04055BF6D4C0AAD62A0',
+    participant: undefined
+  },
+  messageTimestamp: 1694107757,
+  pushName: 'Mih',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '556299885979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_18328c09-3449-44b7-a27c-b3d7af84e9d7',
+  keyword: 'key_318ebc52-0ee0-4824-a57c-a5af4fb068e0',
+  answer: 'Digite *voltar*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '578468f44ee4bc60ee65d5b88eeed708'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '556299885979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0AF0DE932CF51288E56',
+    participant: undefined
+  },
+  messageTimestamp: 1694107760,
+  pushName: 'Mih',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'voltar',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'voltar',
+  from: '556299885979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f5834ae-5573-42e5-8ca1-9bbbe0af4e8d',
+  keyword: 'key_66bdb7ea-cafa-4b4b-9127-06fefe87051e',
+  answer: '💈  Olá bem vindo a *Barbearia Mineiro* 💈 ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2927bf3f8a512473270f48e15c538f5a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0db35e5f-ae25-44b3-acf0-0d345396b67a',
+  keyword: 'ans_4f5834ae-5573-42e5-8ca1-9bbbe0af4e8d',
+  answer: 'Digite o número de uma das opções abaixo:\n' +
+    '👉 *1* Para agendamentos\n' +
+    '👉 *2* Valores\n' +
+    '👉 *3* Localização',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '37db204e6e1ad6fdded7b5956289d66f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '556299885979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DEC2DFF1239D00FBA5',
+    participant: undefined
+  },
+  messageTimestamp: 1694107762,
+  pushName: 'Mih',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '556299885979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ca96e75d-ca8f-496d-828c-e194fd7df3fd',
+  keyword: 'key_8a80ef26-5f47-4feb-b303-fcf20c495ee7',
+  answer: '📍 Segue link para localização \n' +
+    'https://goo.gl/maps/o1sj3Ev3PCFa2cLRA\n' +
+    '\n' +
+    '*4* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0149337c5e53d508c8098f09aae4328e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '556299885979@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00FD4AA06B689128137',
+    participant: undefined
+  },
+  messageTimestamp: 1694107768,
+  pushName: 'Mih',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'voltar',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'voltar',
+  from: '556299885979'
+}
